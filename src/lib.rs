@@ -1,4 +1,4 @@
-//! # Triple Buffering Crate
+//! # ~~Triple~~ Multi-Buffering Crate
 //!
 //! This crate provides utilities for implementing triple buffering and generalized
 //! multi-buffering patterns. It includes the [`TripleBuffer`] type alias, built on top of
