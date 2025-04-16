@@ -1,0 +1,11 @@
+[package]
+name = "multibuffer"
+description = "Utilities for implementing triple buffering and generalized multi-buffering patterns"
+version = "0.1.0"
+authors = ["Markus Mayer <widemeadows@gmail.com>"]
+categories = ["game-development", "algorithms"]
+keywords = ["double-buffer", "triple-buffer", "buffer"]
+license = "EUPL-1.2"
+homepage = "https://github.com/sunsided/multibuffer"
+repository = "https://github.com/sunsided/multibuffer.git"
+edition = "2024"
