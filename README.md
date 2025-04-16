@@ -54,7 +54,7 @@ fn main() {
 
 ## Implementation Details
 
-- The[`MultiBuffer` struct maintains an internal array of buffers, version tags, and
+- The `MultiBuffer` struct maintains an internal array of buffers, version tags, and
   a fence pointer to track the latest published buffer.
 - Buffers are allocated using `UnsafeCell` to allow efficient mutable access without requiring
   synchronization primitives.
